@@ -1,5 +1,5 @@
 # Comparative-Quick-Commerce-Performance-Analysis
-Data Analytics Project
+Data Analytics Project by using Python ,MYSQL ,numpy pandas machine learning ,powerbi
 
 ## 📁 Repository Structure & File Descriptions
 
