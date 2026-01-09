@@ -13,6 +13,12 @@ Data Analytics Project
 | **README.md** | Project documentation explaining the objective, dataset, preprocessing steps, analytics workflow, dashboards, and key insights. |
 
 ---
+## 📊 Power BI Dashboard Generated
+
+This dashboard provides insights into business performance, customer behavior, and operational efficiency using key performance indicators (KPIs), interactive visuals, and data-driven analysis.
+
+![Power BI Dashboard](powerbi_dashboard_image.png)
+
 
 ## 🧭 Project Workflow
 1. Raw data collection from CSV  
