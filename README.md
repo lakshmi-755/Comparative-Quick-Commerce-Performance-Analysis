@@ -1,6 +1,14 @@
 # Comparative-Quick-Commerce-Performance-Analysis
 Data Analytics Project by using Python ,MYSQL ,numpy pandas machine learning ,powerbi
 
+
+
+## 📊 Power BI Dashboard Generated
+
+This dashboard provides insights into business performance, customer behavior, and operational efficiency using key performance indicators (KPIs), interactive visuals, and data-driven analysis.
+
+![Power BI Dashboard](powerbi_dashboard_image.png)
+
 ## 📁 Repository Structure & File Descriptions
 
 | File Name | Description |
@@ -13,11 +21,7 @@ Data Analytics Project by using Python ,MYSQL ,numpy pandas machine learning ,po
 | **README.md** | Project documentation explaining the objective, dataset, preprocessing steps, analytics workflow, dashboards, and key insights. |
 
 ---
-## 📊 Power BI Dashboard Generated
 
-This dashboard provides insights into business performance, customer behavior, and operational efficiency using key performance indicators (KPIs), interactive visuals, and data-driven analysis.
-
-![Power BI Dashboard](powerbi_dashboard_image.png)
 
 
 ## 🧭 Project Workflow
